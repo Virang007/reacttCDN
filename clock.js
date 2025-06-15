@@ -2,7 +2,7 @@ const e = React.createElement;
 
 function MyApp() {
   return e("div", null, [
-    e("h2", { key: 1 }, "🚀 Hello from virang acharya!"),
+    e("h2", { key: 1 }, "🚀 Hello from Donnnnn!"),
     e("p", { key: 2 }, "This React app runs without build or JSX."),
     e("button", {
       key: 3,
